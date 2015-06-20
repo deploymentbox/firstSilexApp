@@ -1,0 +1,172 @@
+2015/06/14 19:45:37 [error] 7#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.225:9000", host: "localhost"
+2015/06/14 19:45:39 [error] 7#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.225:9000", host: "localhost"
+2015/06/14 19:51:14 [error] 7#0: *6 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.225:9000", host: "localhost"
+2015/06/14 19:51:23 [error] 7#0: *6 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.225:9000", host: "localhost"
+2015/06/14 19:57:45 [error] 7#0: *9 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.225:9000", host: "localhost"
+2015/06/14 20:59:57 [error] 5#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.6:9000", host: "localhost"
+2015/06/14 21:00:02 [error] 5#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.6:9000", host: "localhost"
+2015/06/14 21:01:21 [error] 8#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:01:34 [error] 8#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:09:06 [error] 8#0: *5 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:09:43 [error] 8#0: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:09:51 [error] 8#0: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:09:59 [error] 8#0: *8 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:10:31 [error] 8#0: *14 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:16:56 [error] 8#0: *17 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.14:9000", host: "localhost"
+2015/06/14 21:28:57 [error] 9#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost"
+2015/06/14 21:28:58 [error] 9#0: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost"
+2015/06/14 21:29:44 [error] 9#0: *5 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost"
+2015/06/15 19:04:26 [error] 9#0: *10 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost"
+2015/06/15 19:04:29 [error] 9#0: *10 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost", referrer: "http://localhost/"
+2015/06/15 19:27:04 [error] 9#0: *14 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.22:9000", host: "localhost"
+2015/06/15 19:48:24 [error] 5#0: *1 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", host: "localhost"
+2015/06/15 19:48:33 [error] 5#0: *2 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET /demo HTTP/1.1", host: "localhost"
+2015/06/15 19:48:37 [error] 5#0: *4 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", host: "localhost"
+2015/06/15 19:49:02 [error] 5#0: *6 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", host: "localhost"
+2015/06/15 19:49:47 [error] 5#0: *8 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", host: "localhost"
+2015/06/15 19:49:57 [error] 5#0: *9 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET /demo HTTP/1.1", host: "localhost"
+2015/06/15 20:04:45 [error] 5#0: *11 rewrite or internal redirection cycle while redirect to named location "@rewriteapp", client: 172.17.42.1, server: silex.dev, request: "GET /demo HTTP/1.1", host: "localhost"
+2015/06/17 21:19:39 [error] 8#0: *12 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/main.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:19:39 [error] 8#0: *14 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/styles.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:19:39 [error] 8#0: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /images/hostingcrab-logo.png HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:20:04 [error] 8#0: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/main.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:20:05 [error] 8#0: *23 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /images/hostingcrab-logo.png HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:20:05 [error] 8#0: *22 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/styles.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:20:05 [error] 8#0: *22 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /images/hostingcrab-logo.png HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:22:38 [error] 8#0: *30 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/main.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:35:22 [error] 8#0: *38 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/main.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:37:10 [error] 8#0: *46 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:38:03 [error] 8#0: *52 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:38:26 [error] 8#0: *57 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:39:27 [error] 8#0: *61 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:39:31 [error] 8#0: *61 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:39:43 [error] 8#0: *61 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:40:10 [error] 8#0: *66 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /index.php/ HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
+2015/06/17 21:40:15 [error] 8#0: *69 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/404.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/6/c/6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_6cf41e8b31308cef9b96dcde824e32970e0b66417fa5c3ff3b1f8f5aebec5639->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /css/main.css HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost", referrer: "http://localhost/index_dev.php/"
+2015/06/17 21:40:19 [error] 8#0: *69 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Uncaught exception 'Twig_Error_Runtime' with message 'The "native_profiler" extension is not enabled in "errors/500.html" at line 1.' in /var/www/silex/vendor/twig/twig/lib/Twig/Environment.php:681
+Stack trace:
+#0 /var/www/silex/var/cache/twig/8/b/8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07.php(22): Twig_Environment->getExtension('native_profiler')
+#1 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_8b811e430e1215b67a27eb5bdaae025d4196e437e5db8bfc28094e8b39a94b07->doDisplay(Array, Array)
+#2 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(296): Twig_Template->displayWithErrorHandling(Array, Array)
+#3 /var/www/silex/var/cache/twig/d/6/d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f.php(24): Twig_Template->display(Array, Array)
+#4 /var/www/silex/vendor/twig/twig/lib/Twig/Template.php(322): __TwigTemplate_d66d5755d13d5780f7fabdce81379027d82515ccf3f051f41fbbf9826fdcbd3f->doDisplay(Array, Array)
+#5 /var/www/sile" while reading response header from upstream, client: 172.17.42.1, server: silex.dev, request: "GET /index.php/ HTTP/1.1", upstream: "fastcgi://172.17.0.171:9000", host: "localhost"
